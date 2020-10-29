@@ -1,0 +1,56 @@
+dump 
+insert a 2 4 127 6
+insert c 1 4 124 6
+insert a 7 0 5 4
+insert g 1 9 9 4
+insert a 1 7 2 4
+insert t 3 8 12 6
+insert i 4 4 15 6
+insert f 2 4 126 7
+insert a 4 3 6 1
+insert c 2 423 423 6
+insert b 2 498 129 6
+insert h 2 43 128 6
+insert z 2 50 123 7
+insert a 2 60 123 8
+insert z 2 80 123 9
+
+search A
+search a
+search b
+search x
+search x
+search y
+
+remove yaxuan
+remove a
+dump
+remove d
+dump
+remove 1 2 2 3
+remove 1 2 2 4
+dump
+remove 2 4 125 6
+dump
+
+remove 2 4 129 6
+dump
+remove x
+dump
+remove g 
+dump
+remove a 
+remove a
+remove 1 1 2 4
+remove b 
+remove c 
+remove e 
+remove f
+remove h
+remove x
+remove y
+dump
+remove a
+remove 1 2 3 4
+dump
+
